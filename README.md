@@ -27,7 +27,7 @@ I enjoy breaking down complex protocol architectures and ensuring they behave co
 Protocol | Description | Ecosystem | Language | Findings | 📑 |
 |----------|-------------|-----------|----------|----------|----|
  Ryze Protocol - Solidity | DeFi | ♦ EVM | Solidity | 72 issues (0C,6H,26M,31L) | **[🔗](Reports/PDF/Ryze_Solidity_Final_Audit_Report.pdf)** |
- Asterizm | Cross-chain Messaging | Canton Network | DAML | 6 issues (1C,1H,3M,0L) | **[🔗](Reports/PDF/Asterizm_Final_Audit_Report.pdf)** |
+ Asterizm | Cross-chain Messaging | <img src="https://avatars.githubusercontent.com/u/127359622?s=20&v=4" width="16" height="16"/> Canton Network | DAML | 6 issues (1C,1H,3M,0L) | **[🔗](Reports/PDF/Asterizm_Final_Audit_Report.pdf)** |
  Octos Betting | Betting Contracts | ♦ EVM | Solidity | 6 issues (0C,1H,1M,2L) | **[🔗](Reports/PDF/Audit_Report_Octos_Betting.pdf)** |
  Hearth - T-Rex | NFT Gaming | ♦ EVM | Solidity | 12 issues (0C,0H,0M,6L) | **[🔗](Reports/PDF/Audit_Report_Hearth.pdf)** |
  HeyElsa - Staking v2 | Staking | ♦ EVM | Solidity | 11 issues (0C,3H,3M,5L) | **[🔗](Reports/PDF/Audit_Report_HeyElsa_Staking_v2.pdf)** |
